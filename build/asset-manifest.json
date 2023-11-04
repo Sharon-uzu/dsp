@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c2727ee.css",
+    "main.js": "/static/js/main.bdbb4943.js",
+    "static/media/pexels-pixabay-220453.jpeg": "/static/media/pexels-pixabay-220453.289c6114dabacd14e5cb.jpeg",
+    "static/media/business-3d-three-young-women-with-phones 1.png": "/static/media/business-3d-three-young-women-with-phones 1.0e4c3ff9632ea900ecae.png",
+    "static/media/shine-young-people-discussing-work-issues-1 1.png": "/static/media/shine-young-people-discussing-work-issues-1 1.9d472a6d9125d4d3a4c4.png",
+    "static/media/homi 1.png": "/static/media/homi 1.15a1fa6bc75a1178e70c.png",
+    "static/media/enroll1.png": "/static/media/enroll1.86dc57f64602ac724c94.png",
+    "static/media/work-hard-man-and-woman-in-good-mood-celebrating-a-holiday 1.png": "/static/media/work-hard-man-and-woman-in-good-mood-celebrating-a-holiday 1.dafdab622016e227349a.png",
+    "static/media/two.png": "/static/media/two.e90571d5627f5044faae.png",
+    "static/media/laptop.png": "/static/media/laptop.a524ecccfa1e811514a3.png",
+    "static/media/one.png": "/static/media/one.444d4ea8c0f100e43a1f.png",
+    "index.html": "/index.html",
+    "main.5c2727ee.css.map": "/static/css/main.5c2727ee.css.map",
+    "main.bdbb4943.js.map": "/static/js/main.bdbb4943.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2727ee.css",
+    "static/js/main.bdbb4943.js"
+  ]
+}
